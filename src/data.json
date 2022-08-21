@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "author": "John Doe",
+      "title": "We are trending on Github, This is how we did it",
+      "body": "To be honest, Github has an extraordinary algorithm, and it's pretty impossible to know what going on back there. We do have a slight feeling I want to share with you today!..."
+    },
+    {
+      "id": 2,
+      "author": "John Foe",
+      "title": "Post 2",
+      "body": "This is a simple post, post 2"
+    },
+    {
+      "id": 3,
+      "author": "Don Joe",
+      "title": "Post 3",
+      "body": "This is an ample post, post 3"
+    },
+    {
+      "id": 4,
+      "author": "Joe Dof",
+      "title": "Post 4",
+      "body": "This was an angled post, post 4"
+    }
+  ]
+}
